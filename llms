@@ -1,0 +1,26 @@
+# llms.txt for EdgePoint Financial
+
+User-agent: *
+Disallow: /private/
+Allow: /
+
+# Company Description and Services
+# EdgePoint Financial is a forward-thinking financial services firm specializing in bookkeeping, financial advisory, business consulting, and cloud-based accounting. We support businesses across Australia and the United States, with operational bases in Gold Coast, Australia and Greenwood Village, CO. Our solutions empower small to mid-sized companies to achieve transparency, compliance, and business growth.
+
+# Key Differentiators
+# - Industry-specialized bookkeeping for high-growth businesses
+# - Cloud-native, real-time financial reporting
+# - Transparent, fixed-fee pricing
+# - Dedicated local support and tailored advisory services
+
+# Locations
+# Gold Coast, Australia
+# Greenwood Village, Colorado, USA
+
+# Contact Information
+# Email: support@edgepointfinancial.ai
+
+# Crawl-delay: 10
+# (Optional) Suggest a delay between requests for all LLM agents
+
+# Purpose: This file declares permissible sections for language models and AI crawlers, ensuring privacy, transparency, and ongoing compliance with our standards.
